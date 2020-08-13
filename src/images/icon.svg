@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" sodipodi:docname="logo.svg" inkscape:version="1.0 (4035a4fb49, 2020-05-01)" id="svg8" version="1.1" viewBox="0 0 135.46666 135.46667" height="512" width="512">
+  <defs id="defs2"/>
+  <sodipodi:namedview inkscape:document-rotation="0" inkscape:window-maximized="0" inkscape:window-y="311" inkscape:window-x="238" inkscape:window-height="1015" inkscape:window-width="1516" inkscape:pagecheckerboard="true" units="px" showgrid="false" inkscape:current-layer="g844" inkscape:document-units="px" inkscape:cy="482.53749" inkscape:cx="289.29985" inkscape:zoom="1" inkscape:pageshadow="2" inkscape:pageopacity="0.0" borderopacity="1.0" bordercolor="#666666" pagecolor="#ffffff" id="base"/>
+  <metadata id="metadata5">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g sodipodi:insensitive="true" transform="translate(0,-161.53332)" id="layer1" inkscape:groupmode="layer" inkscape:label="BG">
+    <rect y="161.53333" x="0" height="135.46666" width="135.46666" id="rect856" style="fill:#ffffff;fill-opacity:1;stroke-width:0.27038702"/>
+  </g>
+  <g style="display:inline" inkscape:label="Mask" id="layer3" inkscape:groupmode="layer"/>
+  <g inkscape:label="Logo" id="layer2" inkscape:groupmode="layer">
+    <flowRoot style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:-27.39px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none" id="flowRoot820" xml:space="preserve"><flowRegion id="flowRegion822"><rect y="125.11157" x="320.21835" height="359.61432" width="215.16249" id="rect824"/></flowRegion><flowPara id="flowPara826"/></flowRoot>
+    <g id="g844">
+      <text id="text307" y="101.17977" x="18.149372" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:103.082px;line-height:1.25;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:21.4753px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.945117" xml:space="preserve"><tspan style="stroke-width:0.945117" id="tspan305" y="101.17977" x="18.149372" sodipodi:role="line"><tspan id="tspan303" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:103.082px;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;writing-mode:lr-tb;text-anchor:start;stroke-width:0.945117" y="101.17977" x="18.149372">J</tspan></tspan></text>
+      <text id="text313" y="101.17895" x="47.695431" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:103.082px;line-height:1.25;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-7.24694px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.945118;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" xml:space="preserve"><tspan style="stroke-width:0.945118" id="tspan311" y="101.17895" x="47.695431" sodipodi:role="line"><tspan id="tspan309" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:103.082px;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.945118" y="101.17895" x="47.695431">H</tspan></tspan></text>
+    </g>
+  </g>
+</svg>

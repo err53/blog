@@ -6,13 +6,21 @@ const shouldAnalyseBundle = process.env.ANALYSE_BUNDLE
 
 module.exports = {
   siteMetadata: {
-    siteTitleAlt: `Minimal Blog - Gatsby Theme`,
+    siteTitle: `Jason Huang`,
+    siteTitleAlt: `Jason Huang`,
+    siteHeadline: ``,
+    siteUrl: `https://jasonhuang.netlify.app`,
+    siteDescription: ``,
+    siteLanguage: `en`,
+    siteImage: ``,
+    author: `@jhthenerd`,
   },
   plugins: [
     {
       resolve: `@lekoarts/gatsby-theme-minimal-blog`,
       // See the theme's README for all available options
       options: {
+        formatString: "YYYY-MM-DD",
         navigation: [
           {
             title: `Blog`,
@@ -26,13 +34,18 @@ module.exports = {
         externalLinks: [
           {
             name: `Twitter`,
-            url: `https://twitter.com/lekoarts_de`,
+            url: `https://twitter.com/jhthenerd`,
           },
           {
             name: `Instagram`,
-            url: `https://www.instagram.com/lekoarts.de/`,
+            url: `https://www.instagram.com/the.real.json/`,
+          },
+          {
+            name: `Resume`,
+            url: `https://media.githubusercontent.com/media/jhthenerd/resume/master/resume.pdf`,
           },
         ],
+        feedTitle: "Jason Huang"
       },
     },
     {
@@ -45,25 +58,17 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `minimal-blog - @lekoarts/gatsby-theme-minimal-blog`,
-        short_name: `minimal-blog`,
-        description: `Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and code highlighting.`,
+        name: `Jason Huang`,
+        short_name: `Jason Huang`,
+        description: `Jason's personal site`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#6B46C1`,
-        display: `standalone`,
-        icons: [
-          {
-            src: `/android-chrome-192x192.png`,
-            sizes: `192x192`,
-            type: `image/png`,
-          },
-          {
-            src: `/android-chrome-512x512.png`,
-            sizes: `512x512`,
-            type: `image/png`,
-          },
-        ],
+        display: `automatic`,
+        icon: `src/images/icon.svg`,
+        icon_options: {
+          purpose: `maskable`,
+        },
       },
     },
     `gatsby-plugin-offline`,
