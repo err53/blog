@@ -1,8 +1,8 @@
 require(`dotenv`).config({
   path: `.env`,
-})
+});
 
-const shouldAnalyseBundle = process.env.ANALYSE_BUNDLE
+const shouldAnalyseBundle = process.env.ANALYSE_BUNDLE;
 
 module.exports = {
   siteMetadata: {
@@ -45,13 +45,7 @@ module.exports = {
             url: `https://media.githubusercontent.com/media/jhthenerd/resume/master/resume.pdf`,
           },
         ],
-        feedTitle: "Jason Huang"
-      },
-    },
-    {
-      resolve: `gatsby-plugin-google-analytics`,
-      options: {
-        trackingId: process.env.GOOGLE_ANALYTICS_ID,
+        feedTitle: "Jason Huang",
       },
     },
     `gatsby-plugin-sitemap`,
@@ -82,4 +76,4 @@ module.exports = {
       },
     },
   ].filter(Boolean),
-}
+};
