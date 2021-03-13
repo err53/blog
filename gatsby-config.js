@@ -34,7 +34,7 @@ module.exports = {
         externalLinks: [
           {
             name: `Twitter`,
-            url: `https://twitter.com/jhthenerd`,
+            url: `https://twitter.com/err_53`,
           },
           {
             name: `Instagram`,
