@@ -38,7 +38,7 @@ module.exports = {
           },
           {
             name: `Instagram`,
-            url: `https://www.instagram.com/the.real.json/`,
+            url: `https://www.instagram.com/the.err53/`,
           },
           {
             name: `Resume`,
