@@ -42,7 +42,7 @@ module.exports = {
           },
           {
             name: `Resume`,
-            url: `https://media.githubusercontent.com/media/err53/resume/master/resume.pdf`,
+            url: `https://media.githubusercontent.com/media/jhthenerd/resume/master/resume.pdf`,
           },
         ],
         feedTitle: "Jason Huang",
