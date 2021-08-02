@@ -92,6 +92,7 @@ module.exports = {
     `gatsby-plugin-offline`,
     `gatsby-plugin-gatsby-cloud`,
     `gatsby-plugin-netlify`,
+    `gatsby-plugin-preact`,
     {
       resolve: `gatsby-plugin-feed`,
       options: {
