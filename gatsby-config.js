@@ -38,7 +38,11 @@ module.exports = {
           },
           {
             name: `Instagram`,
-            url: `https://www.instagram.com/the.err53/`,
+            url: `https://www.instagram.com/the.err53`,
+          },
+          {
+            name: `Github`,
+            url: `https://github.com/jhthenerd`,
           },
           {
             name: `Resume`,
