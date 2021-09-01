@@ -12,7 +12,7 @@ module.exports = {
     siteDescription: ``,
     siteLanguage: `en`,
     siteImage: ``,
-    author: `@jhthenerd`,
+    author: `@err_53`,
   },
   plugins: [
     {
@@ -41,11 +41,11 @@ module.exports = {
           },
           {
             name: `Github`,
-            url: `https://github.com/jhthenerd`,
+            url: `https://github.com/err53`,
           },
           {
             name: `Resume`,
-            url: `https://media.githubusercontent.com/media/jhthenerd/resume/master/resume.pdf`,
+            url: `https://media.githubusercontent.com/media/err53/resume/master/resume.pdf`,
           },
         ],
         feedTitle: "Jason Huang",
