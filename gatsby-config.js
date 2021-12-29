@@ -81,7 +81,7 @@ module.exports = {
         description: `Jason's personal site`,
         start_url: `/`,
         background_color: `#fff`,
-        theme_color: `#6B46C1`,
+        theme_color: `#1b202b`,
         display: `standalone`,
         icon: `src/images/icon.svg`,
         icon_options: {
