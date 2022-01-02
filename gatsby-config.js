@@ -12,7 +12,7 @@ module.exports = {
     siteDescription: ``,
     siteLanguage: `en`,
     siteImage: ``,
-    author: `@jhthenerd`,
+    author: `@err_53`,
   },
   plugins: [
     {
@@ -41,12 +41,12 @@ module.exports = {
           },
           {
             name: `Github`,
-            url: `https://github.com/jhthenerd`,
+            url: `https://github.com/err53`,
           },
-          {
-            name: `Resume`,
-            url: `https://media.githubusercontent.com/media/jhthenerd/resume/master/resume.pdf`,
-          },
+//           {
+//             name: `Resume`,
+//             url: `https://media.githubusercontent.com/media/err53/resume/master/resume.pdf`,
+//           },
         ],
         feedTitle: "Jason Huang",
       },
@@ -81,7 +81,7 @@ module.exports = {
         description: `Jason's personal site`,
         start_url: `/`,
         background_color: `#fff`,
-        theme_color: `#6B46C1`,
+        theme_color: `#1b202b`,
         display: `standalone`,
         icon: `src/images/icon.svg`,
         icon_options: {
