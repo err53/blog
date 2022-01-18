@@ -43,10 +43,10 @@ module.exports = {
             name: `Github`,
             url: `https://github.com/err53`,
           },
-//           {
-//             name: `Resume`,
-//             url: `https://media.githubusercontent.com/media/err53/resume/master/resume.pdf`,
-//           },
+          {
+            name: `Resume`,
+            url: `/resume.pdf`,
+          },
         ],
         feedTitle: "Jason Huang",
       },
